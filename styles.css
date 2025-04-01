@@ -1,0 +1,12 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    background: black;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
